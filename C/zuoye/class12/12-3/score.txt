@@ -1,2 +1,0 @@
-The average grade of male students is:77
-The average grade of female students is:75
